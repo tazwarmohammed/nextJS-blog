@@ -2,4 +2,4 @@
 
 A simple test blog website using nextJS
 
-Live link: next-js-blog-tamanna.vercel.app
+Live link: https://next-js-blog-tamanna.vercel.app/
