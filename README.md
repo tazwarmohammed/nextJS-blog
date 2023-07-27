@@ -2,4 +2,4 @@
 
 A simple test blog website using nextJS
 
-Live link: https://next-js-blog-five-pi.vercel.app/
+Live link: next-js-blog-tamanna.vercel.app
